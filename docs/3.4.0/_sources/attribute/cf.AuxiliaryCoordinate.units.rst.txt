@@ -1,7 +1,7 @@
-cf.AuxiliaryCoordinate.units
+cf.AuxiliaryCoordinate.Units
 ============================
 
 .. currentmodule:: cf
 .. default-role:: obj
 
-.. autoattribute:: cf.AuxiliaryCoordinate.units
+.. autoattribute:: cf.AuxiliaryCoordinate.Units

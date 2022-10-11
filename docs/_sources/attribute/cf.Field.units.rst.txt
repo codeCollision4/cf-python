@@ -1,7 +1,7 @@
-cf.Field.units
+cf.Field.Units
 ==============
 
 .. currentmodule:: cf
 .. default-role:: obj
 
-.. autoattribute:: cf.Field.units
+.. autoattribute:: cf.Field.Units

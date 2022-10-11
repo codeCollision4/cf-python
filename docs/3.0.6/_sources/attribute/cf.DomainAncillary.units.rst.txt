@@ -1,7 +1,7 @@
-cf.DomainAncillary.units
+cf.DomainAncillary.Units
 ========================
 
 .. currentmodule:: cf
 .. default-role:: obj
 
-.. autoattribute:: cf.DomainAncillary.units
+.. autoattribute:: cf.DomainAncillary.Units

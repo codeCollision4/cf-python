@@ -1,7 +1,7 @@
-cf.m
+cf.M
 ====
 
 .. currentmodule:: cf
 .. default-role:: obj
 
-.. autofunction:: cf.m
+.. autofunction:: cf.M

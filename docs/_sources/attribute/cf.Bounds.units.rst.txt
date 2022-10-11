@@ -1,7 +1,7 @@
-cf.Bounds.units
+cf.Bounds.Units
 ===============
 
 .. currentmodule:: cf
 .. default-role:: obj
 
-.. autoattribute:: cf.Bounds.units
+.. autoattribute:: cf.Bounds.Units
